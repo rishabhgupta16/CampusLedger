@@ -173,7 +173,7 @@ The JWT is currently stored in `localStorage` for simplicity. A production-grade
 **Prerequisites:** Node.js, npm, and a MongoDB connection string (a free MongoDB Atlas cluster works).
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rishabhgupta16/CampusLedger.git
 cd student-finance
 npm install
 ```
